@@ -1,16 +1,18 @@
 package mainPackage;
 
 public class Veiculo {
-	private String marca;
-	private String modelo;
-	private int anoFabricacao;
-	private double preco;
+	public String marca;
+	public String modelo;
+	public int anoFabricacao;
+	public double preco;
+	public int outro;
 	
-	public Veiculo(String marca, String modelo, int anoFabricacao, double preco) {
+	public Veiculo(String marca, String modelo, int anoFabricacao, double preco, int outro) {
         this.marca = marca;
         this.modelo = modelo;
         this.anoFabricacao = anoFabricacao;
         this.preco = preco;
+        this.outro = outro;
     }
 	
 	public String getMarca() {
@@ -27,5 +29,9 @@ public class Veiculo {
 
     public double getPreco() {
         return preco;
+    }
+    
+    public int getOutro() {
+    	return outro;
     }
 }

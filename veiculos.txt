@@ -1,0 +1,9 @@
+Marca: Toyota, Modelo: Corolla, Ano de fabricação: 2022, Preço: 50000.0
+Marca: Honda, Modelo: CBR, Ano de fabricação: 2021, Preço: 8000.0
+Marca: Toyota, Modelo: Corolla, Ano de fabricação: 2022, Preço: 50000.0
+Marca: Honda, Modelo: CBR, Ano de fabricação: 2021, Preço: 8000.0
+Marca: Toyota, Modelo: Corolla, Ano de fabricação: 2022, Preço: 50000.0
+Marca: Honda, Modelo: CBR, Ano de fabricação: 2021, Preço: 8000.0
+Marca: Toyota, Modelo: Corolla, Ano de fabricação: 2022, Preço: 50000.0
+Marca: Honda, Modelo: CBR, Ano de fabricação: 2021, Preço: 8000.0
+Marca: Toyota, Modelo: Corolla, Ano de fabricação: 2022, Preço: 50000.0Marca: Honda, Modelo: CBR, Ano de fabricação: 2021, Preço: 8000.0Marca: Toyota, Modelo: Corolla, Ano de fabricação: 2022, Preço: 50000.0Marca: Honda, Modelo: CBR, Ano de fabricação: 2021, Preço: 8000.0

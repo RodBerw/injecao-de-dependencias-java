@@ -12,7 +12,7 @@ public class Concessionaria {
 		armazenamento.adicionarVeiculo(veiculo);
 	}
 	
-	public List<Veiculo> listarVeiculosEmEstoque() {
-        return armazenamento.recuperarVeiculos();
+	public void listarVeiculosEmEstoque() {
+        armazenamento.recuperarVeiculos();
     }
 }
